@@ -1,0 +1,25 @@
+    .style1
+    {
+
+        background: linear-gradient(to right,#f0610e, #e8da1a, #ae4aff);
+          -webkit-background-clip: text;
+          color: transparent;
+        text-align:center;
+    } /*借鉴于如何使字体渐变色*/
+    .style2/*图片居中*/
+    {
+        text-align:center;
+    }
+    .style3
+    {
+        background: linear-gradient(to right,#0e83f0, #e51ae8, #ff4a4a);
+          -webkit-background-clip: text;
+          color: transparent;
+        text-align:center;
+    }
+    #edg
+    {
+        display: block;
+        margin:0 auto;
+        border:2px solid #090909;
+    }
